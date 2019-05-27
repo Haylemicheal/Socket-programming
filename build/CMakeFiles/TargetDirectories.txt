@@ -1,0 +1,4 @@
+/home/luna/kim/socket/build/CMakeFiles/edit_cache.dir
+/home/luna/kim/socket/build/CMakeFiles/client.dir
+/home/luna/kim/socket/build/CMakeFiles/rebuild_cache.dir
+/home/luna/kim/socket/build/CMakeFiles/server.dir

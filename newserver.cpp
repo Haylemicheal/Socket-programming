@@ -5,7 +5,7 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
 	/* code */
-    int n;
+    
     char bufer[256];
     Server newserve;
     newserve.socket_(AF_INET, SOCK_STREAM, 0,5001);

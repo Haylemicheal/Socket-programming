@@ -12,7 +12,7 @@ int main(int argc, char const *argv[])
    Client newclient;
    char bufer[256];
 
-   int sockfd = newclient.socket_(AF_INET, SOCK_STREAM, 0,portno);
+    newclient.socket_(AF_INET, SOCK_STREAM, 0,portno);
    
     newclient.connect_(argv[1]);
     newclient.read_msg();

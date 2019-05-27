@@ -12,7 +12,7 @@ class Client{
 public:
    int sockfd, portno,n;
    char buffer[256];
-   int socket_(int family,int s_type,int protocol,int port){
+   void socket_(int family,int s_type,int protocol,int port){
      
       /* Create a socket point */
       sockfd = socket(family, s_type, 0);
@@ -23,7 +23,7 @@ public:
       }
     portno = port;
       
-    return sockfd;
+    
    }
 
    void connect_(char const * argv){
