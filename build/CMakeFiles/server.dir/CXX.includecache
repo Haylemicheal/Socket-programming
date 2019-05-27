@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-/home/luna/kim/socket/newserver.cpp
+/home/luna/kim/socket/socket/newserver.cpp
 iostream
 -
 string.h
 -
 newserver.h
-/home/luna/kim/socket/newserver.h
+/home/luna/kim/socket/socket/newserver.h
 
-/home/luna/kim/socket/newserver.h
+/home/luna/kim/socket/socket/newserver.h
 cstdio
 -
 stdlib.h

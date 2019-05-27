@@ -1,4 +1,0 @@
-/home/yony/Desktop/icog_projects/socket/CMakeFiles/rebuild_cache.dir
-/home/yony/Desktop/icog_projects/socket/CMakeFiles/edit_cache.dir
-/home/yony/Desktop/icog_projects/socket/CMakeFiles/client.dir
-/home/yony/Desktop/icog_projects/socket/CMakeFiles/server.dir
